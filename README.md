@@ -1,4 +1,5 @@
 # 💬 OOP Chat Simulator
+[![npm version](https://img.shields.io/npm/v/oop-hbi5.svg?style=flat-square)](https://www.npmjs.com/package/oop-hbi5)
 
 A TypeScript/Node.js CLI application that simulates a dynamic conversation environment using Object-Oriented Programming (OOP) concepts.
 
@@ -18,16 +19,9 @@ A TypeScript/Node.js CLI application that simulates a dynamic conversation envir
 * **Language:** TypeScript / Node.js
 * **Libraries:** `inquirer` (CLI input management), `chalk` (Terminal coloring)
 
-Markdown
----
+### 🚀 How to Run & Use
 
-## 🚀 How to Run & Use
-
-1. Clone or download this repository to your local computer.
-2. Open your terminal in the project folder and install the dependencies:
-   ```bash
-   npm install
-3. Run the application using the following command:
+Run this application directly in your terminal using `npx` (No installation required):
 
 ```bash
-npx tsc && node index.js
+npx oop-hbi5
